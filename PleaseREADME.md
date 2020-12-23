@@ -8,3 +8,6 @@ PHASE 1: The DATA
 PHASE 2: The tests
 - Now we run the simulations. Just checking how much is gained or lost/ Tweak the varibles near the top. 
 - I have uploaded setting I like to use for RDF on JSE. Also, note each prices (Taken from above code) uses 30 second intervals
+
+Phase 3: The Neural NET
+- Just two models used, Support Vector and Linear Regression. I had fun with them. 
