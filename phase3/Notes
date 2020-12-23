@@ -1,1 +1,3 @@
 Make sure to run floatIt.py on correct data before using this script. Also, the more days of data you add, the better
+BTWs, the confidence was very low with just a days worth of data, and so I added a few previous days worth of share prices of JSE:SOL
+It can be used to get the code up and running
