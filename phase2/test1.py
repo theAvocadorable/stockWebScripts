@@ -9,7 +9,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from datetime import datetime
 
 
-fileName = 'RDF-22Dec.txt'
+fileName = 'RDF-12Dec.txt'
 file = open(fileName, "r")
 rawList = file.read().split()
 file.close()
