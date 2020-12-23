@@ -1,3 +1,4 @@
+#New code is based off thos, but this is legacy, no longer used nor as good
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 import time
