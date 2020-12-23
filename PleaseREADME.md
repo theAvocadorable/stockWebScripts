@@ -11,3 +11,6 @@ PHASE 2: The tests
 
 Phase 3: The Neural NET
 - Just two models used, Support Vector and Linear Regression. I had fun with them. 
+
+Phase 4: The execution
+- At this time I have decided not to publish these files, as the automate logging into my share account. They would be super different for different share accounts used. Plus I'd rather not give too much personal information away, considering the script is still running on my account. But the script basically reads in from the text file every half minute and uses test1.py principles to either buy, sell or do nothing. I clearly have faith in my code, as I am willing to give it controll of my account. ANyway, goodluck!
